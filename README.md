@@ -65,13 +65,14 @@ CatBoost
 
 ## Cross-Validation Results
 
-Model	               ROC AUC	 Precision	  Recall	    F1-score
-LightGBM	           0.868	   0.993	      0.718	      0.831
-Gradient Boosting	   0.889	   0.981	      0.718	      0.828
-XGBoost	             0.878	   0.981	      0.715	      0.826
-Random Forest	       0.883	   0.957	      0.726	      0.825
-CatBoost	           0.890	   0.903	      0.699	      0.785
-Logistic Regression	 0.723	   0.358	      0.519	      0.414
+| Model                | ROC AUC | Precision | Recall | F1-score |
+|----------------------|---------|-----------|--------|----------|
+| LightGBM             | 0.868   | 0.993     | 0.718  | 0.831    |
+| Gradient Boosting    | 0.889   | 0.981     | 0.718  | 0.828    |
+| XGBoost              | 0.878   | 0.981     | 0.715  | 0.826    |
+| Random Forest        | 0.883   | 0.957     | 0.726  | 0.825    |
+| CatBoost             | 0.890   | 0.903     | 0.699  | 0.785    |
+| Logistic Regression  | 0.723   | 0.358     | 0.519  | 0.414    |
 
 ## Business Impact Analysis
 
